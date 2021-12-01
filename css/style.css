@@ -127,14 +127,13 @@ hr {
   font-size: 1.6rem;
   padding: 0.8rem 1.6rem;
   border-radius: 100px;
-  box-shadow: -0.5rem 1rem 2rem 0 rgba(196, 115, 129, 0.3);
-
-  
+  box-shadow: -0.5rem 1rem 2rem 0 rgba(196, 115, 129, 0.3) !important;
   transition: all 0.3s;
 }
 
 .btn-xl:hover {
   background-color: #097a90;
   border-color: #097a90;
-  color: #000;
+  color: #fff;
 }
+
