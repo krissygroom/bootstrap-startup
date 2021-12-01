@@ -46,6 +46,7 @@ uifaces.com
 
 
 --- 5) SHADOWS ---
+landing page shadow: rgba(196, 115, 129, 0.3)
 
 
 --- 6) BORDER_RADIUS ---
@@ -126,7 +127,9 @@ hr {
   font-size: 1.6rem;
   padding: 0.8rem 1.6rem;
   border-radius: 100px;
-  box-shadow: 0 1rem 2rem 0 hsla(210, 19%, 87%, 0.3);
+  box-shadow: -0.5rem 1rem 2rem 0 rgba(196, 115, 129, 0.3);
+
+  
   transition: all 0.3s;
 }
 
