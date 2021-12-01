@@ -95,10 +95,11 @@ body {
 /* Header */
 
 h1 {
-  font-family: adelle-thin, serif;
+  /* font-family: adelle-thin, serif; */
+  font-family: brandon-grotesque, sans-serif;
   font-size: 4.8rem;
-  letter-spacing: 1.8px;
-  font-weight: 200;
+  letter-spacing: 0.35rem;
+  font-weight: 300;
   color: #d9dfe5;
 }
 
@@ -121,11 +122,11 @@ hr {
 .btn-xl:focus {
   background-color: #3cadc3;
   border-color: #3cadc3;
-  letter-spacing: 0.5px;
   color: #000;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 1.6rem;
-  padding: 0.8rem 1.6rem;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
   border-radius: 100px;
   box-shadow: -0.5rem 1rem 2rem 0 rgba(196, 115, 129, 0.3) !important;
   transition: all 0.3s;
