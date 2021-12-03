@@ -5,4 +5,4 @@ https://krissygroom.github.io/bootstrap-startup/
 Udemy Bootstrap Project 
 
 ### Description
-Basic Bootstrap startup landing page with signup form page using HTML/CSS/CSS Animations/Bootstrap/Mailchimp
+Basic Bootstrap startup landing page with signup form page using HTML/CSS/Bootstrap/Mailchimp
